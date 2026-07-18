@@ -1,0 +1,6 @@
+{
+  "name": "Daily Expense Notebook",
+  "description": "একটি সহজ এবং সুন্দর দৈনিক খরচ খাতা অ্যাপ (বাংলায়)। (A beautiful and simple Bengali daily expense notebook app.)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
